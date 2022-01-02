@@ -1,4 +1,5 @@
 ---
+theme: slate
 layout: page
 title: About - Root Tongue
 permalink: /about
