@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header_wrap {
+  background-color: #d0dc28;
+}
+
+#project_title, #project_tagline {
+  color: #333;
+  text-shadow: none;
+}
