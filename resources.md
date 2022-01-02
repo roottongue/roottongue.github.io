@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources - Root Tongue
+permalink: /resources
 ---
 # RESOURCES
 
