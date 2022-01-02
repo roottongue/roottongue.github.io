@@ -1,6 +1,8 @@
+---
 layout: page
 title: About - Root Tongue
 permalink: /about
+---
 
 # About
 
