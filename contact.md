@@ -6,6 +6,7 @@ permalink: /contact
 # CONTACT
 
 INQUIRIES
-  root.tongue@gmail.com
+
+root.tongue@gmail.com
 
 Feel free to get in touch with us!
