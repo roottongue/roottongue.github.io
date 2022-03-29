@@ -2,7 +2,7 @@
 layout: default
 title: ROOT TONGUE Endangerment
 permalink: /clip-02-endangerment
-youtubeId:
+youtubeId: GOzNxEJoK1c
 ---
 # Film Clip - Endangerment
 
