@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[![Watch film clips](/assets/video/rt-intro-6-second.gif)](/videolist)
+<img src="/assets/video/rt-intro-6-second.gif" alt="Watch Root Tongue film clips" width="1024"/>
