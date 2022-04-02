@@ -5,7 +5,6 @@ permalink: /videolist
 ---
 ## Film Clip List
 
----
 
 ### Mother Tongue
 [![Mother Tongue](/assets/video/Mother-Tongue.jpg)](/clip-01-mother-tongue)
