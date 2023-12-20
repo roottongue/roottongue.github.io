@@ -3,8 +3,16 @@ layout: default
 title: Video list - Root Tongue
 permalink: /videolist
 ---
-## Film Clip List
+### When engaging with Root Tongue, the onboarding process describes what participation entails with four scrolling frames:
 
+1. Watch. View thematic videos (1–4 minutes in length)
+2. Contemplate. After each video plays you will be asked a question
+3. Respond. Submit stories in text, image, audio or video
+4. Connect. Visit the community gallery to see other responses
+
+### The thematic video clips can also be accessed in the drop-down menu.
+
+[![Screen shot of expanded right drawer with links to video clips](rt-videos-right-drawer.png)]
 
 ### Mother Tongue
 [![Mother Tongue](/assets/video/Mother-Tongue.jpg)](/clip-01-mother-tongue)
