@@ -12,7 +12,7 @@ permalink: /videolist
 
 ### The thematic video clips can also be accessed in the drop-down menu.
 
-[![Screen shot of expanded right drawer with links to video clips](rt-videos-right-drawer.png)]
+[![Screen shot of expanded right drawer with links to video clips](/assets/images/rt-videos-right-drawer.png)]
 
 ### Mother Tongue
 [![Mother Tongue](/assets/video/Mother-Tongue.jpg)](/clip-01-mother-tongue)
