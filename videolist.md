@@ -3,29 +3,35 @@ layout: default
 title: Video list - Root Tongue
 permalink: /videolist
 ---
-### When engaging with Root Tongue, the onboarding process describes what participation entails with four scrolling frames:
+#### Root Tongue engages audiences and participants motivated by the stories and issues raised in the film Tongues of Heaven [Should this be in all caps – TONGUES OF HEAVEN?], co-directed by Anita Chang, An-Chi Chen, Kainoa Kaupu, Hau’oli Waiau and Shin-Lan Yu. In the documentary, four young indigenous women from Taiwan and Hawai’i use video cameras to share their challenges in learning the languages of their forebears before they go extinct. They ask themselves and their community: What do you lose when you lose your native language?
+
+
+
+#### In the Root Tongue app, thematic clips from the documentary and companion questions allowed participants to explore the challenges of language endangerment and preservation by sharing their own perspective through dialogue and creative uploads of their videos, images, audio and writings. Themes explored were: mother tongue, endangerment, multilingualism, world and you, what if, learning, government, value, your community, youth, teacher, revival, speakers, identity, will, alone, motivation, and importance.
+
+##### When engaging with Root Tongue, the onboarding process describes what participation entails with four scrolling frames:
 
 1. Watch. View thematic videos (1–4 minutes in length)
 2. Contemplate. After each video plays you will be asked a question
 3. Respond. Submit stories in text, image, audio or video
 4. Connect. Visit the community gallery to see other responses
 
-#### The thematic video clips can also be accessed in the drop-down menu.
+##### The thematic video clips can also be accessed in the drop-down menu.
 
 ![Screen shot of expanded right drawer with links to video clips](/assets/images/rt-videos-right-drawer.png)
 
 ### Mother Tongue
-[![Mother Tongue](/assets/video/Mother-Tongue.jpg)](/clip-01-mother-tongue)
+{% include youtubePlayer.html id=cjn1oKyGXDE %}
 
 ---
 
 ### Endangerment
-[![Endangerment](/assets/video/Endangerment.jpg)](/clip-02-endangerment)
+{% include youtubePlayer.html id=2_gnPYoTNfg %}
 
 ---
 
 ### Multilingualism
-[![Multilingualism](/assets/video/Multilingualism.jpg)](/clip-03-multilingualism)
+{% include youtubePlayer.html id=Pd9m4OeT9B4 %}
 
 ---
 
