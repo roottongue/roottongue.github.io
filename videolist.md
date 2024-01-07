@@ -124,24 +124,40 @@ alt="Speakers" width="640" height="480" border="2" /></a>
 ---
 
 #### Identity
-[![Identity](/assets/video/Identity.jpg)](/clip-14-identity)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-0L3lGJW3S4A
+" target="_blank"><img src="http://img.youtube.com/vi/0L3lGJW3S4A/0.jpg" 
+alt="Identity" width="640" height="480" border="2" /></a>
 
 ---
 
 #### Will
-[![Will](/assets/video/Will.jpg)](/clip-15-will)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=D4E1ZetXX2g
+" target="_blank"><img src="http://img.youtube.com/vi/D4E1ZetXX2g/0.jpg" 
+alt="Will" width="640" height="480" border="2" /></a>
 
 ---
 
 #### Alone
-[![Alone](/assets/video/Alone.jpg)](/clip-16-alone)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kJn1hpcTGM8
+" target="_blank"><img src="http://img.youtube.com/vi/kJn1hpcTGM8/0.jpg" 
+alt="Will" width="640" height="480" border="2" /></a>
 
 ---
 
 #### Motivation
-[![Motivation](/assets/video/Motivation.jpg)](/clip-17-motivation)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MwX2Ymar_sM
+" target="_blank"><img src="http://img.youtube.com/vi/MwX2Ymar_sM/0.jpg" 
+alt="Motivation" width="640" height="480" border="2" /></a>
 
 ---
 
 #### Importance
-[![Importance](/assets/video/Importance.jpg)](/clip-18-importance)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qReRSzznquQ
+" target="_blank"><img src="http://img.youtube.com/vi/qReRSzznquQ/0.jpg" 
+alt="Importance" width="640" height="480" border="2" /></a>
+
