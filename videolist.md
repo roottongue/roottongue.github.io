@@ -22,94 +22,98 @@ permalink: /videolist
 
 ![Screen shot of expanded right drawer with links to video clips](/assets/images/rt-videos-right-drawer.png)
 
-### Mother Tongue
+#### Mother Tongue
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cjn1oKyGXDE
 " target="_blank"><img src="http://img.youtube.com/vi/cjn1oKyGXDE/0.jpg" 
-alt="Mother Tongue" width="480" height="360" border="4" /></a>
-{% include youtubePlayer.html id=cjn1oKyGXDE %}
+alt="Mother Tongue" width="640" height="480" border="2" /></a>
 
 ---
 
-### Endangerment
-{% include youtubePlayer.html id=2_gnPYoTNfg %}
+#### Endangerment
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2_gnPYoTNfg
+" target="_blank"><img src="http://img.youtube.com/vi/2_gnPYoTNfg/0.jpg" 
+alt="Endangerment" width="640" height="480" border="2" /></a>
 
 ---
 
-### Multilingualism
-{% include youtubePlayer.html id=Pd9m4OeT9B4 %}
+#### Multilingualism
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Pd9m4OeT9B4
+" target="_blank"><img src="http://img.youtube.com/vi/Pd9m4OeT9B4/0.jpg" 
+alt="Mother Tongue" width="640" height="480" border="2" /></a>
 
 ---
 
-### World and You
-{% include youtubePlayer.html id=_unpWMi_J7k %}
+#### World and You
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_unpWMi_J7k/0.jpg)](http://www.youtube.com/watch?v=_unpWMi_J7k)
 
 ---
 
-### What If
+#### What If
 {% include youtubePlayer.html id=a5or1FgrJIA %}
 
 ---
 
-### Learning
+#### Learning
 {% include youtubePlayer.html id=u5J6jLiW41w %}
 
 ---
 
-### Government
+#### Government
 {% include youtubePlayer.html id=EShzkzxwcAw %}
 
 ---
 
-### Value
+#### Value
 {% include youtubePlayer.html id=xQm86tYIlz8 %}
 
 ---
 
-### Your Community
+#### Your Community
 {% include youtubePlayer.html id=d206YvqeX9o %}
 
 ---
 
-### Youth
+#### Youth
 {% include youtubePlayer.html id=sqlWgSbEYvY %}
 
 ---
 
-### Teacher
+#### Teacher
 [![Teacher](/assets/video/Teacher.jpg)](/clip-11-teacher)
 
 ---
 
-### Revival
+#### Revival
 [![Revival](/assets/video/Revival.jpg)](/clip-12-revival)
 
 ---
 
-### Speakers
+#### Speakers
 [![Speakers](/assets/video/Speakers.jpg)](/clip-13-speakers)
 
 ---
 
-### Identity
+#### Identity
 [![Identity](/assets/video/Identity.jpg)](/clip-14-identity)
 
 ---
 
-### Will
+#### Will
 [![Will](/assets/video/Will.jpg)](/clip-15-will)
 
 ---
 
-### Alone
+#### Alone
 [![Alone](/assets/video/Alone.jpg)](/clip-16-alone)
 
 ---
 
-### Motivation
+#### Motivation
 [![Motivation](/assets/video/Motivation.jpg)](/clip-17-motivation)
 
 ---
 
-### Importance
+#### Importance
 [![Importance](/assets/video/Importance.jpg)](/clip-18-importance)
