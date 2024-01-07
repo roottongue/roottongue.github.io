@@ -3,11 +3,13 @@ layout: default
 title: Video list - Root Tongue
 permalink: /videolist
 ---
-#### Root Tongue engages audiences and participants motivated by the stories and issues raised in the film Tongues of Heaven [Should this be in all caps – TONGUES OF HEAVEN?], co-directed by Anita Chang, An-Chi Chen, Kainoa Kaupu, Hau’oli Waiau and Shin-Lan Yu. In the documentary, four young indigenous women from Taiwan and Hawai’i use video cameras to share their challenges in learning the languages of their forebears before they go extinct. They ask themselves and their community: What do you lose when you lose your native language?
+##### Root Tongue engages audiences and participants motivated by the stories and issues raised in the film Tongues of Heaven, co-directed by Anita Chang, An-Chi Chen, Kainoa Kaupu, Hau’oli Waiau and Shin-Lan Yu. In the documentary, four young indigenous women from Taiwan and Hawai’i use video cameras to share their challenges in learning the languages of their forebears before they go extinct. They ask themselves and their community: What do you lose when you lose your native language?
 
 
 
-#### In the Root Tongue app, thematic clips from the documentary and companion questions allowed participants to explore the challenges of language endangerment and preservation by sharing their own perspective through dialogue and creative uploads of their videos, images, audio and writings. Themes explored were: mother tongue, endangerment, multilingualism, world and you, what if, learning, government, value, your community, youth, teacher, revival, speakers, identity, will, alone, motivation, and importance.
+##### In the Root Tongue app, thematic clips from the documentary and companion questions allowed participants to explore the challenges of language endangerment and preservation by sharing their own perspective through dialogue and creative uploads of their videos, images, audio and writings. Themes explored were: mother tongue, endangerment, multilingualism, world and you, what if, learning, government, value, your community, youth, teacher, revival, speakers, identity, will, alone, motivation, and importance.
+
+
 
 ##### When engaging with Root Tongue, the onboarding process describes what participation entails with four scrolling frames:
 
@@ -21,6 +23,10 @@ permalink: /videolist
 ![Screen shot of expanded right drawer with links to video clips](/assets/images/rt-videos-right-drawer.png)
 
 ### Mother Tongue
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cjn1oKyGXDE
+" target="_blank"><img src="http://img.youtube.com/vi/cjn1oKyGXDE/0.jpg" 
+alt="Mother Tongue" width="480" height="360" border="4" /></a>
 {% include youtubePlayer.html id=cjn1oKyGXDE %}
 
 ---
@@ -36,37 +42,37 @@ permalink: /videolist
 ---
 
 ### World and You
-[![World and You](/assets/video/World-and-You.jpg)](/clip-04-world-and-you)
+{% include youtubePlayer.html id=_unpWMi_J7k %}
 
 ---
 
 ### What If
-[![What If](/assets/video/What-If.jpg)](/clip-05-what-if)
+{% include youtubePlayer.html id=a5or1FgrJIA %}
 
 ---
 
 ### Learning
-[![Learning](/assets/video/Learning.jpg)](/clip-06-learning)
+{% include youtubePlayer.html id=u5J6jLiW41w %}
 
 ---
 
 ### Government
-[![Government](/assets/video/Government.jpg)](/clip-07-government)
+{% include youtubePlayer.html id=EShzkzxwcAw %}
 
 ---
 
 ### Value
-[![Value](/assets/video/Value.jpg)](/clip-08-value)
+{% include youtubePlayer.html id=xQm86tYIlz8 %}
 
 ---
 
 ### Your Community
-[![Your Community](/assets/video/Your-Community.jpg)](/clip-09-your-community)
+{% include youtubePlayer.html id=d206YvqeX9o %}
 
 ---
 
 ### Youth
-[![Youth](/assets/video/Youth.jpg)](/clip-10-youth)
+{% include youtubePlayer.html id=sqlWgSbEYvY %}
 
 ---
 
