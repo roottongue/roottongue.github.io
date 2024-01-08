@@ -4,7 +4,8 @@ title: Book - Root Tongue
 permalink: /book
 ---
 
-![Third Digital Documentary Book Cover][assets/images/TDD-book-cover.jpeg]
+![Third Digital Documentary Book Cover][/assets/images/TDD-book-cover.jpeg]
+[![Third Digital Documentary Book Cover](/assets/images/TDD-book-cover.jpeg)](https://a.co/d/a7Gx68z)
 
 
 Writings on the making of Root Tongue, offering a theory and methodology of transmedia arts activism within the technocultural and sociopolitical landscape of expanded documentary production, distribution, reception and participation. [Buy it here](https://a.co/d/a7Gx68z)
