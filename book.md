@@ -6,7 +6,7 @@ permalink: /book
 
 The making of ROOT TONGUE is featured in the book [_Third Digital Documentary_](https://a.co/d/a7Gx68z), that offers a theory and methodology of transmedia arts activism within the technocultural and sociopolitical landscape of expanded documentary production, distribution, reception and participation.
 
-
+<img src="/assets/images/TDD-book-cover.jpeg" alt="book cover" width="350" />
 ![Third Digital Documentary Book Cover](/assets/images/TDD-book-cover.jpeg)
 
  
