@@ -28,7 +28,7 @@ permalink: /resources
 [www.avakonohiki.org](www.avakonohiki.org)
 - Indigenous Language Institute, Santa Fe, New Mexico
 [www.ilinative.org](www.ilinative.org)
-- Language Documentation and Conservation Journal, Honolulu, Hawai'i
+- Language Documentation and Conservation Journal, Honolulu, Hawaiʻi
 [nflrc.hawaii.edu/ldc](nflrc.hawaii.edu/ldc)
 - Papakilo Database
 [www.papakilodatabase.com](www.papakilodatabase.com)
@@ -39,8 +39,8 @@ permalink: /resources
 
 ## Study – 學習
 
-- College of Hawaiian Language, University of Hawai'i, Hilo
+- College of Hawaiian Language, University of Hawaiʻi, Hilo
 [www.olelo.hawaii.edu](www.olelo.hawaii.edu)
-- Hawai'inuiākea School of Hawaiian Knowledge
+- Hawaiʻinuiākea School of Hawaiian Knowledge
 [manoa.hawaii.edu/hshk](manoa.hawaii.edu/hshk)
 
