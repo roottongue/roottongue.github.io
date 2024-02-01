@@ -28,7 +28,7 @@ permalink: /resources
 [www.avakonohiki.org](www.avakonohiki.org)
 - Indigenous Language Institute, Santa Fe, New Mexico
 [www.ilinative.org](www.ilinative.org)
-- Language Documentation and Conservation Journal, Honolulu, Hawai‘i
+- Language Documentation and Conservation Journal, Honolulu, Hawai'i
 [nflrc.hawaii.edu/ldc](nflrc.hawaii.edu/ldc)
 - Papakilo Database
 [www.papakilodatabase.com](www.papakilodatabase.com)
