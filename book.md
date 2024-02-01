@@ -10,7 +10,7 @@ The making of ROOT TONGUE is featured in the book [_Third Digital Documentary_](
 ![Third Digital Documentary Book Cover](/assets/images/TDD-book-cover.jpeg)
 
 
-<img src="assets/images/TDD-book-cover.jpeg" width="250” height=“500“>
+<img src=“https://roottongue.github.io/assets/images/TDD-book-cover.jpeg" width="250” height=“500“>
 
  
 “This book is a rousing call to a collaborative documentary and transmedia practice that is at once theoretically astute and ethically committed. As she sets out with her partners to preserve linguistic diversity from Taiwan to Hawai‘i, Anita Chang charts a course for community-engaged documentary and transmedia projects that decolonize through the dialogical possibilities of digital media. Third Digital Documentary represents the very best of a growing trend toward the convergence of scholarly, activist, and creative pursuits.” --Alexander L. Fattal, author of _Shooting Cameras for Peace / Disparando Cámaras para la Paz_
