@@ -7,11 +7,11 @@ permalink: /community-gallery
 
 
 
-The community gallery was where creative uploads were featured and where visitors and participants connected. The _Root Tongue_ community gallery space provided participants a page for each of their uploads that included fields for the title, credit, theme, language, country and description. The gallery also allowed participants to post comments on the creative uploads and discuss language and related issues.
+The community gallery was where creative uploads were featured and where visitors and participants connected. The ROOT TONGUE community gallery space provided participants a page for each of their uploads that included fields for the title, credit, theme, language, country and description. The gallery also allowed participants to post comments on the creative uploads and discuss language and related issues.
 
  
 
-Scroll down to explore the range of creative expressions from Root Tongue participants.
+Scroll down to explore the range of creative expressions from ROOT TONGUE participants.
 
 
 
